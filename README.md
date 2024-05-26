@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @arvindkri-03
 - 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning c programming.
+-  I’m currently learning Java-Script by Chai aur Code.
 - ⚡ Fun fact: ...
 
 <!---
